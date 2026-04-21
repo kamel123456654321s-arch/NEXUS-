@@ -1,0 +1,27 @@
+{
+  "name": "NEXUS",
+  "short_name": "NEXUS",
+  "description": "A full-featured web app you can install on your phone",
+  "id": "/",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#141a2e",
+  "theme_color": "#141a2e",
+  "icons": [
+    {
+      "src": "/b6334360-30db-11f1-aa29-ed079364d8c4.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/b6334360-30db-11f1-aa29-ed079364d8c4.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
